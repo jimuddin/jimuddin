@@ -1,4 +1,4 @@
-### 👋 Hey there! I'm Jashim Uddin  
+### 👋 Hey there! I'm Jashim Uddin (Jim)
 
 🚀 **Aspiring Data Analyst | Python | SQL | Power BI | Data Science Enthusiast**  
 
